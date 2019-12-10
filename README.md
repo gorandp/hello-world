@@ -1,5 +1,4 @@
 # hello-world
-crazy things happen here
-well, also normal ones, but normally speaking it isn't normal at all
+This is a normal hello-world. Nothing to do with crazy things at all.
 
-this is 5th line, and i'm learning some branching stuff, yeah!
+this is 6th line, and i'm learning some branching stuff, yeah!
